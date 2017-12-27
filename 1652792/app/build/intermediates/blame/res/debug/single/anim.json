@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/logan/Desktop/untitled folder/Calendar_051/app/build/intermediates/res/merged/debug/anim/push_left_out.xml",
+        "source": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/anim/push_left_out.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/手机应用开发项目/1652792/app/build/intermediates/res/merged/debug/anim/flipper_left_out.xml",
+        "source": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/anim/flipper_left_out.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/untitled folder/Calendar_051/app/build/intermediates/res/merged/debug/anim/push_right_in.xml",
+        "source": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/anim/push_right_in.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/手机应用开发项目/1652792/app/build/intermediates/res/merged/debug/anim/flipper_left_in.xml",
+        "source": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/anim/flipper_left_in.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/untitled folder/Calendar_051/app/build/intermediates/res/merged/debug/anim/push_left_in.xml",
+        "source": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/anim/push_left_in.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/手机应用开发项目/1652792/app/build/intermediates/res/merged/debug/anim/flipper_right_out.xml",
+        "source": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/anim/flipper_right_out.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/手机应用开发项目/1652792/app/build/intermediates/res/merged/debug/anim/flipper_right_in.xml",
+        "source": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/anim/flipper_right_in.xml"
+    },
+    {
+        "merged": "/Users/logan/Desktop/untitled folder/Calendar_051/app/build/intermediates/res/merged/debug/anim/push_right_out.xml",
+        "source": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/anim/push_right_out.xml"
+    }
+]

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="68663442019876"
+    token="-5940614456661814973"
+    verifier="STATIC_INITIALIZER_CHANGE" >
+
+    <task
+        name="javac"
+        duration="251" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="5" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="E:\test\Calendar_051\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="68663442019876"
+        verifier="STATIC_INITIALIZER_CHANGE" >
+        <artifact
+            location="E:\test\Calendar_051\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

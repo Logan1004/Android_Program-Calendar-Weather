@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <Spinner
+        android:id="@+id/sp1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/screen_background_dark"></Spinner>
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sp1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="0℃"
+        android:textSize="50sp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/tv0"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="60dp"
+        android:layout_below="@id/tv"
+        android:text="今日天气实况：气温：14℃；风向/风力：东南风 1级；湿度：65%；紫外线强度：暂缺。空气质量：暂缺。"
+        android:textSize="24sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"/>
+
+    <GridLayout
+        android:id="@+id/gl"
+        android:layout_below="@id/tv0"
+        android:orientation="horizontal"
+        android:columnCount="4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/tv1"
+            android:text="12月17日 晴"
+           
+            android:textSize="18sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+
+
+    </GridLayout>
+
+</RelativeLayout>

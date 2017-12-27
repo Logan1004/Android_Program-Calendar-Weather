@@ -1,0 +1,1039 @@
+[
+    {
+        "outputFile": "/Users/logan/Desktop/untitled folder/Calendar_051/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 40,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 46,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 40,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 41,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 47,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 46,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 46,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 47,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 43,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 39,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 40,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 40,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 40,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 41,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 41,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 41,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 64,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endLine": 27,
+                    "endColumn": 8,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/style.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/style.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2221
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/app/src/main/res/values/style.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/logan/Desktop/手机应用开发项目/1652792/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 41,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 40,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 40,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 46,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 46,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 40,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 40,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 41,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 41,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 47,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 47,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 46,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 46,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 46,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 46,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 47,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 47,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 43,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 43,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 39,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 39,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 40,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 40,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 40,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 40,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 40,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 40,
+                        "endOffset": 625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 41,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 41,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 41,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 64,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endLine": 27,
+                    "endColumn": 8,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 552,
+                        "endLine": 18,
+                        "endColumn": 8,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1031,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2282
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/手机应用开发项目/1652792/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 546
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 41,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 40,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 40,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 46,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 46,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 40,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 40,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 41,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 41,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 47,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 47,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 46,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 46,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 46,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 46,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 47,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 47,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 43,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 43,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 39,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 39,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 40,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 40,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 40,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 40,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 40,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 40,
+                        "endOffset": 625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 41,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 42,
+                    "endOffset": 745
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 42,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 750,
+                    "endColumn": 64,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endLine": 27,
+                    "endColumn": 8,
+                    "endOffset": 1279
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 552,
+                        "endLine": 18,
+                        "endColumn": 8,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1284,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1796
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1031,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1801,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2283
+                },
+                "from": {
+                    "file": "/Users/logan/Desktop/untitled folder/Calendar_051/E:\\test\\Calendar_051\\app\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 546
+                    }
+                }
+            }
+        ]
+    }
+]

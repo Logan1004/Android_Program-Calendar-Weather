@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\test\Calendar_051\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cd65323b54189b281045dceb236656794ccc39c">
+        <dex dex="E:\test\Calendar_051\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b2e763c0b35ace7fd499f76f48a9fc570e9b56aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\Calendar_051\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd1ba4b964bc7024bb48ff81c4ad178335831f53">
+        <dex dex="E:\test\Calendar_051\app\build\intermediates\pre-dexed\debug\instant-run_0bfe6eddcd00dff3ede9669ebf09e53455987189.jar" />
+    </item>
+
+</items>

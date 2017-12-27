@@ -1,0 +1,4 @@
+#Sun Dec 24 15:21:49 CST 2017
+base.0=/Users/logan/Desktop/手机应用开发项目/1652792/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/logan/Desktop/手机应用开发项目/1652792/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
